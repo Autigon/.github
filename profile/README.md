@@ -1,15 +1,3 @@
-<div align="center">
-
-# Autigon
-
-**Build complex products and practical AI systems with a senior engineering partner.**
-
-[Website](https://autigon.com) · [X / Twitter](https://x.com/autigon) · [hello@autigon.com](mailto:hello@autigon.com)
-
-</div>
-
----
-
 Autigon is a senior-led engineering firm from India. We design, build and scale software for startups and growing businesses, especially products that are operationally complex: real users, real workflows, and data coming in from many places.
 
 ## What we build

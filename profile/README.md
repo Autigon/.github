@@ -24,4 +24,4 @@ We're starting to share tools, templates and guides from our work. Watch this sp
 
 ## Work with us
 
-Building something complex? Book a discovery call at **[autigon.com](https://autigon.com)** or write to **hello@autigon.com**.
+Building something complex? Book a discovery call at **[autigon.com](https://autigon.com)**.
